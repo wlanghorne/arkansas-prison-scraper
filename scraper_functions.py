@@ -201,6 +201,12 @@ def scrape_page(matches, page_links, violent_offenses, outputs_path, driver):
             writer.writerow(inmate_info)
             f.close()
 
+def create_outputs_path(outputs_path, final_path):
+    if not os.path.isdir(outputs_path): 
+        os.mkdir(outputs_path)
+    if not os.path.isdir(final_path):
+        os.mkdir(final_path)
+
 
 def find_csv_files(path_to_dir, file_type=".csv"):
   file_names = os.listdir(path_to_dir)
