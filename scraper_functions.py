@@ -10,12 +10,12 @@ import csv
 import os
 
 # Scrapes inmate database for inmates at least or at most the age specified. At most is least_or_most == 2. At least is least_or_most == 3 
-def scrape_inmates_of_age (outputs_path, driver_path, url, age):
+def scrape_inmates_of_age (output_path, driver_path, url, age):
 
     # Add header for the first row of data
     headers = ['Name', 'Race', 'Sex', 'DoB', 'Initial Receipt Date', 'Facility', 'PE/TE Date', 'Total Time','Currently sentenced on violent offense','Current prison sentence history', 'Sentences in county' 'Timestamp: ' + str(datetime.datetime.now())]
 
-    with open(outputs_path, 'w') as f:
+    with open(output_path, 'w') as f:
         writer = csv.writer(f)
         writer.writerow(headers)
         f.close()
@@ -75,7 +75,7 @@ def scrape_inmates_of_age (outputs_path, driver_path, url, age):
         # Get length of list and create a variable for the number of links to iterate through
         links_len = len(page_links)
 
-        scrape_page(matches_on_pg, page_links[2:], violent_offenses, outputs_path, driver)
+        scrape_page(matches_on_pg, page_links[2:], violent_offenses, output_path, driver)
 
         inmate_counter += matches_on_pg
         print(inmate_counter)   
@@ -129,7 +129,7 @@ def get_page_links (driver):
     return(page_links)
 
 # Function that scrapes data from current page 
-def scrape_page(matches, page_links, violent_offenses, outputs_path, driver):
+def scrape_page(matches, page_links, violent_offenses, output_path, driver):
     # Iterate through links on page
     for i in range(matches):
 
@@ -196,7 +196,7 @@ def scrape_page(matches, page_links, violent_offenses, outputs_path, driver):
         sleep(1.3)
 
         # Write to file  
-        with open(outputs_path, 'a') as f:
+        with open(output_path, 'a') as f:
             writer = csv.writer(f)
             writer.writerow(inmate_info)
             f.close()
