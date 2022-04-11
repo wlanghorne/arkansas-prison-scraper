@@ -8,9 +8,8 @@ outputs_path = './outputs/'
 final_path = './outputs/final'
 final_file_path = './outputs/final/final.csv'
 
-# Use chromedriver99 for older version of chrome
-#driver_path ='./chromedriver'
-driver_path ='./chromedriver99'
+# Put chrome driver corresponding to install version of chrome in path 
+driver_path ='./chromedriver'
 
 url = 'https://apps.ark.org/inmate_info/index.php'
 
