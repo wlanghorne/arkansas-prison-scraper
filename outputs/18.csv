@@ -1,0 +1,8 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-13 10:51:36.676553
+"AvantIII, Michael ",BLACK,MALE,09/30/2004,01/03/2022,Randall L. Williams Cor. Facility,09/30/2026,20 yrs.,True,"['Murder-2nd Degree', 'Battery-1st Degree']","['LEE', 'LEE']"
+"Hampton, Laquavis ",BLACK,MALE,09/13/2004,02/28/2022,Randall L. Williams Cor. Facility,11/27/2023,10 yrs.,True,"['Aggravated Assault', 'Kidnapping', 'Battery-2nd Degree', 'Escape-1st Degree', 'Terroristic Threat.1st Deg', 'Criminal Mischief - 1st Degree (Damage &gt; ,000 &lt;= ,000)']","['SALINE', 'SALINE', 'SALINE', 'SALINE', 'SALINE', 'SALINE']"
+"Pace, Keshuwm D",BLACK,MALE,08/30/2004,12/30/2021,Randall L. Williams Cor. Facility,05/10/2023,6 yrs.,False,['Robbery'],['COLUMBIA']
+"Ravine, Kaylon ",BLACK,MALE,02/27/2004,12/29/2020,Ester Unit,09/05/2022,12 yrs.,True,['Terroristic Act'],['FAULKNER']
+"Sapp, Henlize N",BLACK,MALE,08/24/2004,09/22/2021,Randall L. Williams Cor. Facility,09/23/2022,5 yrs.,False,['Battery-1st Degree'],['UNION']
+"Stephens, Caleb J",CAUCASIAN,MALE,01/15/2004,09/10/2021,Ester Unit,05/17/2031,40 yrs.,True,"['Aggravated Residential Burglary', 'Rape', 'Criminal Attempt<br> - Capital Murder']","['ASHLEY', 'ASHLEY', 'ASHLEY']"
+"White, Kylan ",BLACK,MALE,09/04/2004,05/05/2021,Randall L. Williams Cor. Facility,07/18/2027,30 yrs.,True,['Murder-2nd Degree'],['LEE']

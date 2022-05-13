@@ -1,0 +1,5 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:29:36.442101
+"Bower, Richard ",CAUCASIAN,MALE,01/29/1938,04/28/2009,Cummins Unit,Life,,True,"['Aggravated Robbery', 'Kidnapping']","['BAXTER', 'BAXTER']"
+"Hunter, Norman L",CAUCASIAN,MALE,05/29/1938,10/23/2015,Ouachita River Correct. Unit,03/09/2023,12 yrs.,True,['Rape'],['BENTON']
+"Nicely, Kenneth ",CAUCASIAN,MALE,09/30/1938,12/23/1958,Cummins Unit,Life,,True,['Murder-1st Degree'],['NEVADA']
+"Still, Barbara J",CAUCASIAN,FEMALE,08/23/1938,05/11/1987,McPherson Unit,Life,,True,['Murder-1st Degree'],['LONOKE']

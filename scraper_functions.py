@@ -94,7 +94,7 @@ def scrape_inmates_of_age (output_path, driver_path, url, age):
     print('Success! ' + str(datetime.datetime.now()))
 
 # Function checks to see there are elements labeled with given class name. Returns error message and loads last page if not
-def error_check(class_name, driver):
+def error_check(class_name, driver, page_link):
     class_container = driver.find_elements(By.CLASS_NAME,class_name)
     # Loop until the page loads correctly and elements with given class name show up
     while not class_container:
@@ -110,7 +110,7 @@ def error_check(class_name, driver):
             driver.execute_script('window.open('');')
             # Switch to the new window and open URL B
             driver.switch_to.window(driver.window_handles[1])
-            driver.get(page_links[i])
+            driver.get(page_link)
 
             class_container = driver.find_elements(By.CLASS_NAME,class_name)
 
@@ -124,7 +124,7 @@ def get_page_links (driver):
         # remove 'send $' links
         link = elem.get_attribute('href')
         link_txt = str(link)
-        if 'bank' not in link_txt:
+        if 'deposit' not in link_txt:
             page_links.append(link)
     return(page_links)
 
@@ -139,10 +139,11 @@ def scrape_page(matches, page_links, violent_offenses, output_path, driver):
 
         # Switch to the new window and open URL B
         driver.switch_to.window(driver.window_handles[1])
-        driver.get(page_links[i])
+        page_link = page_links[i]
+        driver.get(page_link)
 
         # Scrape inmate information
-        elements = error_check('col-xs-6', driver)
+        elements = error_check('col-xs-6', driver, page_link)
 
         # Get name, race, sex, DoB, initial receipt date, facility, total time 
         inmate_info =[elements[3].get_attribute('innerHTML'),
@@ -193,7 +194,7 @@ def scrape_page(matches, page_links, violent_offenses, output_path, driver):
         driver.switch_to.window(driver.window_handles[0])
 
         # Add delay to keep from crashing 
-        sleep(1.3)
+        sleep(2)
 
         # Write to file  
         with open(output_path, 'a') as f:

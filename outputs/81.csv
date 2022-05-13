@@ -1,0 +1,10 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:28:23.351146
+"Avery, John H",CAUCASIAN,MALE,05/22/1941,12/06/2010,Pine Bluff Unit,04/10/2024,20 yrs.,True,['Rape'],['CRAIGHEAD']
+"Carter, Johnny ",CAUCASIAN,MALE,07/06/1941,10/21/2013,Randall L. Williams Cor. Facility,04/22/2021,30 yrs.,True,['Sexual Assault 1st Degree'],['SEBASTIAN']
+"Chamberlain, Walter R",CAUCASIAN,MALE,01/06/1941,07/13/1999,North Central Unit,02/05/2027,40 yrs.,True,"['Rape', 'Eng.Child Sex Expct Condt']","['GARLAND', 'GARLAND']"
+"Cooper, Clarence L",CAUCASIAN,MALE,11/09/1941,06/08/2017,Varner Unit,02/23/2034,100 yrs.,True,['Sexual Assault 2nd Degree'],['WASHINGTON']
+"Crator, Calvin ",BLACK,MALE,04/17/1941,03/23/1966,Tucker Unit,Life,,True,['Rape'],['LONOKE']
+"Crawford, Johnny ",CAUCASIAN,MALE,07/16/1941,05/22/2017,Ouachita River Correct. Unit,02/14/2031,15 yrs.,True,"['Criminal Attempt<br> - Aggravated Robbery<br> - Habitual Offender', 'Poss. Firearm Certain Pers<br> - Habitual Offender', 'Theft of Property Obtnd by Threat of Serious Physical Injury', 'Commercial Burglary']","['HEMPSTEAD', 'HEMPSTEAD', 'HEMPSTEAD', 'HEMPSTEAD']"
+"Holloway, Winston ",CAUCASIAN,MALE,12/10/1941,09/06/1975,Varner Unit,Life,,True,"['Burglary', 'Rape', 'Criminal Use Proh. Weapon', 'Robbery', 'Criminal Use Proh. Weapon', 'Criminal Use Proh. Weapon', 'Rape']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Houston, Willie ",BLACK,MALE,04/17/1941,02/09/1972,Cummins Unit,09/15/2031,120 yrs.,True,"['Murder-2nd Degree', 'Aggravated Assault', 'Murder-1st Degree']","['PULASKI', 'PULASKI', 'PULASKI']"
+"Mines, Jasper ",BLACK,MALE,04/27/1941,01/17/1969,DOC Central Office,08/11/2019,9 yrs.,False,['Robbery'],['DESHA']

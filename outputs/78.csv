@@ -1,0 +1,13 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:26:45.068646
+"Bennett, Curtis M",CAUCASIAN,MALE,08/17/1944,12/08/2020,Grimes Unit,07/22/2021,3 yrs.,True,['Sexual Assault 2nd Degree'],['CRAIGHEAD']
+"Benoit, Jo A",CAUCASIAN,FEMALE,03/25/1944,12/07/1983,McPherson Unit,Life WO,,True,['Capital Murder'],['CLAY']
+"Britton, Burlie R",CAUCASIAN,MALE,08/20/1944,02/03/2006,North Central Unit,08/21/2026,30 yrs.,True,['Rape'],['POPE']
+"DabneyJr, Arthur ",BLACK,MALE,12/10/1944,11/22/1995,Ouachita River Correct. Unit,04/02/2006,40 yrs.,True,['Criminal Attempt<br> - Rape'],['MISSISSIPPI']
+"Garrett, Harl A",CAUCASIAN,MALE,11/10/1944,08/30/2019,Grimes Unit,01/17/2023,20 yrs.,True,['Sexual Assault 2nd Degree'],['GARLAND']
+"Inman, Russell W",CAUCASIAN,MALE,02/19/1944,04/24/2007,Ouachita River Correct. Unit,11/11/2010,20 yrs.,True,['Sexual Assault 2nd Degree'],['SALINE']
+"Madewell, Jackie ",CAUCASIAN,MALE,07/14/1944,02/09/1983,Interstate Compacts,09/03/2027,85 yrs.,True,"['Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery']","['SEBASTIAN', 'SEBASTIAN', 'SEBASTIAN']"
+"Miller, Larry W",CAUCASIAN,MALE,01/13/1944,07/26/1982,Cummins Unit,Life WO,,True,"['Capital Murder', 'Aggravated Robbery', 'Battery-2nd Degree']","['PULASKI', 'PULASKI', 'PULASKI']"
+"Patterson, Charles L",CAUCASIAN,MALE,09/16/1944,06/08/1988,Maximum Security Unt,Life,,True,"['Burglary', 'Theft Of Property', 'Theft Of Property', 'Theft Of Property', 'Criminal Solicitation', 'Intimidating A Witness', 'Terroristic Threat.1st Deg', 'Theft Of Property', 'Theft Of Property', 'Perjury', 'Residential Burglary<br> - Deadly Weapon', 'Aggravated Robbery<br> - Deadly Weapon', 'Theft Of Property<br> - Deadly Weapon', 'Theft Of Property<br> - Deadly Weapon']","['INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'FULTON', 'FULTON', 'FULTON', 'FULTON']"
+"Patton, Billy ",CAUCASIAN,MALE,08/09/1944,09/11/1964,DOC Central Office,12/09/2017,15 yrs.,False,['Theft Of Property'],['CLEVELAND']
+"Rounsavall, Steven M",CAUCASIAN,MALE,09/28/1944,03/16/1974,DOC Central Office,07/01/1975,3 yrs.,False,"['Burglary', 'Theft Of Property', 'Burglary', 'Theft Of Property']","['NEWTON', 'NEWTON', 'PULASKI', 'PULASKI']"
+"Titsworth, Buford E",CAUCASIAN,MALE,01/27/1944,09/11/2007,Wrightsville Unit,04/03/2020,20 yrs.,True,['Murder-1st Degree'],['CRAWFORD']

@@ -1,0 +1,6 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:28:49.703906
+"Aber, Henry W",CAUCASIAN,MALE,11/07/1940,04/08/2015,Ester Unit,11/14/2017,18 yrs.,True,['Sexual Assault 2nd Degree'],['LONOKE']
+"Deweese, Gracie L",CAUCASIAN,FEMALE,10/09/1940,10/07/1982,McPherson Unit,Life,,True,['Murder-1st Degree'],['DESHA']
+"Merritt, Harold D",CAUCASIAN,MALE,07/12/1940,10/28/2019,Ester Unit,07/01/2021,10 yrs.,False,['Computer Child Pornography'],['OUACHITA']
+"Richards, Kenneth W",CAUCASIAN,MALE,11/17/1940,01/28/2019,Ouachita River Correct. Unit,05/30/2022,20 yrs.,True,"['Sexual Assault 4th Degree', 'Sexual Assault 2nd Degree', 'Sexual Assault 2nd Degree', 'Sexual Indecency With A Child']","['MILLER', 'MILLER', 'MILLER', 'MILLER']"
+"Webb, James W",BLACK,MALE,04/26/1940,12/19/2018,Ouachita River Correct. Unit,09/28/2023,16 yrs.,False,"['Discharge Firearm Vehicle', 'Tamper With Phys.Evid.']","['ASHLEY', 'ASHLEY']"

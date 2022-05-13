@@ -1,0 +1,45 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:18:55.666846
+"Adams/Valachi, Michael/Vin V",CAUCASIAN,MALE,05/04/1950,08/31/1992,Varner Unit,Life,,True,"['Theft Of Property<br> - Habitual Offender', 'Theft Of Property<br> - Habitual Offender', 'Aggravated Robbery<br> - Habitual Offender', 'Aggravated Robbery<br> - Habitual Offender', 'Aggravated Assault<br> - Habitual Offender']","['BENTON', 'BENTON', 'BENTON', 'BENTON', 'BENTON']"
+"Allen, Charles E",CAUCASIAN,MALE,06/30/1950,06/10/2019,Grimes Unit,08/03/2021,7 yrs.,True,['Sexual Assault 2nd Degree<br> - Probation Revocation'],['CRAWFORD']
+"Bardin, William L",CAUCASIAN,MALE,12/12/1950,07/24/2014,Ouachita River Correct. Unit,07/07/2028,20 yrs.,True,['Rape'],['BAXTER']
+"Billett, Daniel L",CAUCASIAN,MALE,04/08/1950,10/15/1993,East AR Region.Unit,Life,,True,['Murder-1st Degree<br> - Felony With Firearm'],['CRAIGHEAD']
+"Boehler, Gary L",CAUCASIAN,MALE,05/06/1950,01/29/2007,Ouachita River Correct. Unit,12/14/2021,40 yrs.,True,"['Sexual Assault 2nd Degree', 'Sexual Assault 2nd Degree', 'Man.Delv.Poss Cont Subs', 'Failure To Register', 'Failure To Register']","['POLK', 'POLK', 'POLK', 'SEBASTIAN', 'SCOTT']"
+"Bowden, Michael D",CAUCASIAN,MALE,08/29/1950,09/09/1987,Varner Unit,Life WO,,True,['Capital Murder'],['BOONE']
+"Bussard, Ralph ",CAUCASIAN,MALE,06/16/1950,03/06/1987,Maximum Security Unt,Life WO,,True,"['Theft Of Property', 'Escape-2nd Degree', 'Capital Murder']","['LAWRENCE', 'LAWRENCE', 'SHARP']"
+"Caple, Donald G",CAUCASIAN,MALE,10/24/1950,01/10/2020,Cummins Unit,Life WO,,True,"['Rape', 'Sexual Assault 2nd Degree', 'Rape']","['PULASKI', 'PULASKI', 'GARLAND']"
+"Douthitt, Ralph D",CAUCASIAN,MALE,01/24/1950,11/13/1995,Cummins Unit,11/04/2029,174 yrs.,True,"['Rape', 'Viol. Of Minor-1st Degree', 'Incest', 'Rape', 'Viol. Of Minor-1st Degree', 'Rape']","['INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE', 'INDEPENDENCE']"
+"Dutton, Homer ",CAUCASIAN,MALE,03/25/1950,10/23/2013,Ester Unit,05/30/2022,15 yrs.,True,['Rape'],['POINSETT']
+"Edwards, Larry E",CAUCASIAN,MALE,10/17/1950,09/25/2014,Tucker Unit,12/27/2017,14 yrs.,True,"['Sexual Assault 1st Degree', 'Interference With Custody']","['WASHINGTON', 'BENTON']"
+"Edwards, Willie R",BLACK,MALE,08/14/1950,10/07/1991,Bradley County Waiting List,06/15/2020,15 yrs.,False,"['Forgery', 'Forgery', 'Forgery', 'Forgery', 'Forgery', 'Forgery', 'Forgery', 'Theft Of Property', 'Theft Of Property', 'Theft Of Property', 'Theft Of Property', 'Theft Of Property', 'Forgery', 'Forgery', 'Forgery', 'Forgery']","['BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'BRADLEY', 'DREW', 'BRADLEY', 'DALLAS', 'BRADLEY']"
+"Friesland, Oren ",CAUCASIAN,MALE,07/31/1950,10/15/2012,Ester Unit,09/10/2021,10 yrs.,True,"['Sexual Assault 2nd Degree', 'Sexual Assault 2nd Degree<br> - Probation Revocation']","['SHARP', 'FULTON']"
+"Gomez, Carlos O",HISPANIC,MALE,01/03/1950,02/14/1990,Maximum Security Unt,Life,,True,"['Burglary', 'Aggravated Assault', 'Poss. Firearm Certain Pers', 'Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs', 'Poss. Firearm Certain Pers', 'Poss. Firearm Certain Pers', 'Hot Check One Inst &gt; ,000', 'Man.Delv.Poss Cont Subs<br> - Habitual Offender', 'Hot Check One Inst &gt; ,000']","['SEVIER', 'SEVIER', 'SEVIER', 'SEVIER', 'SEVIER', 'SEVIER', 'SEVIER', 'SEVIER', 'SEVIER', 'SEVIER']"
+"Green, Bobby R",CAUCASIAN,MALE,02/25/1950,08/27/1984,East AR Region.Unit,Life,,True,"['Aggravated Robbery', 'Theft Of Property', 'Poss. Firearm Certain Pers<br> - Habitual Offender', 'Kidnapping<br> - Habitual Offender', 'Kidnapping<br> - Habitual Offender', 'Escape-1st Degree<br> - Habitual Offender', 'Aggravated Robbery<br> - Habitual Offender', 'Theft Of Property<br> - Habitual Offender', 'Kidnapping<br> - Habitual Offender', 'Theft Of Property<br> - Habitual Offender', 'Theft Of Property<br> - Habitual Offender']","['PULASKI', 'PULASKI', 'DESHA', 'DESHA', 'DESHA', 'DESHA', 'DESHA', 'DESHA', 'DESHA', 'DESHA', 'DESHA']"
+"Head, Michael R",CAUCASIAN,MALE,05/22/1950,03/06/2013,Ouachita River Correct. Unit,04/21/2020,30 yrs.,True,['Sexual Assault 1st Degree'],['SALINE']
+"Hill, Steve R",CAUCASIAN,MALE,08/20/1950,02/24/1998,Cummins Unit,Life,,True,['Rape'],['BOONE']
+"Holder, Sam ",BLACK,MALE,12/03/1950,04/10/2019,Grimes Unit,10/20/2031,20 yrs.,True,['Rape'],['PULASKI']
+"Hulsey, Larry D",CAUCASIAN,MALE,07/07/1950,11/19/2019,Ester Unit,07/28/2020,6 yrs.,False,['Failure To Register'],['GARLAND']
+"JacksonJr, Herbert ",BLACK,MALE,08/01/1950,07/11/1980,East AR Region.Unit,Life,,True,['Murder-1st Degree<br> - Habitual Offender'],['SEBASTIAN']
+"Johnson, Woodie L",BLACK,FEMALE,05/15/1950,06/12/1976,McPherson Unit,Life,,True,"['Murder-1st Degree', 'Aggravated Robbery', 'Aggravated Robbery', 'Criminal Attempt']","['SALINE', 'SALINE', 'SALINE', 'SALINE']"
+"JohnsonJr, Earl ",BLACK,MALE,05/06/1950,06/30/1971,Maximum Security Unt,Life,,True,['Murder-1st Degree'],['SEBASTIAN']
+"Jones, Tommy ",CAUCASIAN,MALE,06/26/1950,02/12/2002,Ouachita River Correct. Unit,08/11/2025,40 yrs.,True,['Rape'],['FRANKLIN']
+"Lewis, Ronald A",CAUCASIAN,MALE,02/23/1950,06/01/2017,Grimes Unit,01/18/2047,50 yrs.,True,"['Rape', 'Sexual Assault-2nd Degree']","['BENTON', 'BENTON']"
+"Lockwood, Dennis ",CAUCASIAN,MALE,12/07/1950,01/18/2013,Ester Unit,09/19/2016,15 yrs.,True,['Sexual Assault 1st Degree'],['FRANKLIN']
+"Mccullough, Walter A",BLACK,MALE,09/22/1950,06/14/2005,Pine Bluff Unit,01/04/2028,80 yrs.,True,"['Terroristic Act<br> - Habitual Offender', 'Battery-1st Degree<br> - Habitual Offender', 'Man.Delv.Poss Cont Subs<br> - Probation Revocation']","['CRAIGHEAD', 'CRAIGHEAD', 'CRAIGHEAD']"
+"Mcgalliard, Patrick D",CAUCASIAN,MALE,11/20/1950,03/31/2000,Crawford County Waiting List,05/04/2025,2 yrs.,False,['Man.Delv.Poss Cont Subs'],['CRAWFORD']
+"McHenry, James E",CAUCASIAN,MALE,02/09/1950,10/24/2014,Ouachita River Correct. Unit,07/03/2041,40 yrs.,True,"['Sexual Assault 2nd Degree', 'Rape']","['GREENE', 'GREENE']"
+"Nelson, Hilliard L",BLACK,MALE,01/28/1950,11/19/1990,Cummins Unit,Life,,True,['Murder-1st Degree'],['DESHA']
+"NelsonII, Bill C",CAUCASIAN,MALE,09/30/1950,09/08/1973,Ouachita River Correct. Unit,Life,,True,['Murder-1st Degree'],['SEBASTIAN']
+"Parker, Roger D",CAUCASIAN,MALE,08/19/1950,05/12/1978,Delta Regional Unit,09/02/2013,100 yrs.,True,"['Rape', 'Rape']","['CRAIGHEAD', 'CRAIGHEAD']"
+"Randall, Wilbert ",BLACK,MALE,08/12/1950,09/18/1976,Cummins Unit,Life WO,,True,['Capital Murder'],['JEFFERSON']
+"Ridling, Danny J",CAUCASIAN,MALE,07/14/1950,03/05/2001,North Central Unit,08/07/2025,35 yrs.,True,['Rape'],['PULASKI']
+"SavageJr, Dotson ",BLACK,MALE,08/29/1950,03/02/1995,Cummins Unit,11/01/2039,180 yrs.,True,"['Kidnapping', 'Rape', 'Criminal Attempt<br> - Kidnapping']","['MILLER', 'MILLER', 'MILLER']"
+"Smith, Lucille S",CAUCASIAN,FEMALE,03/17/1950,06/29/1974,McPherson Unit,Life,,True,"['Murder-1st Degree', 'Robbery', 'Kidnapping', 'Kidnapping', 'Theft Of Property', 'Kidnapping', 'Kidnapping', 'Kidnapping', 'Kidnapping']","['ARKANSAS', 'MONROE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE']"
+"Smith, Richard L",BLACK,MALE,08/13/1950,04/08/2014,Grimes Unit,11/13/2015,10 yrs.,True,['Sexual Assault 2nd Degree'],['FAULKNER']
+"Spencer, Brenda K",CAUCASIAN,FEMALE,12/03/1950,06/29/1974,McPherson Unit,Life,,True,"['Murder-1st Degree', 'Robbery', 'Kidnapping', 'Kidnapping', 'Theft Of Property', 'Kidnapping', 'Kidnapping', 'Kidnapping', 'Kidnapping']","['ARKANSAS', 'MONROE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE', 'PRAIRIE']"
+"Stewart, David L",CAUCASIAN,MALE,12/14/1950,01/07/2020,Delta Regional Unit,08/23/2023,25 yrs.,True,"['Sexual Assault 2nd Degree', 'Sexual Assault 2nd Degree']","['CRAWFORD', 'CRAWFORD']"
+"ThomasJr, Harry ",BLACK,MALE,05/11/1950,01/21/2000,Pine Bluff Unit,09/25/2027,40 yrs.,True,['Murder-1st Degree'],['DALLAS']
+"Trimble, Kenneth T",CAUCASIAN,MALE,03/15/1950,08/21/1992,Varner Unit,Life WO,,True,['Capital Murder'],['SALINE']
+"Webster, Gary L",CAUCASIAN,MALE,12/17/1950,10/23/2018,Tucker Unit,05/07/2020,10 yrs.,False,"['Failure To Register<br> - Probation Revocation', 'Failure To Register<br> - Probation Revocation', 'Failure To Register<br> - Probation Revocation', 'Failure To Register<br> - Probation Revocation', 'Sex Offender Failing to Reg - Filing False Paperwork or Doc']","['CRAIGHEAD', 'CRAIGHEAD', 'CRAIGHEAD', 'CRAIGHEAD', 'CRAIGHEAD']"
+"Wertz, Steven V",CAUCASIAN,MALE,02/17/1950,07/19/2007,Ouachita River Correct. Unit,Life WO,,True,['Capital Murder'],['SHARP']
+"Westbrook, Booker ",BLACK,MALE,09/10/1950,05/01/1978,Ouachita River Correct. Unit,Life WO,,True,['Capital Murder'],['ASHLEY']
+"Wright, Almer W",CAUCASIAN,MALE,04/24/1950,04/10/2001,Ester Unit,09/11/2021,30 yrs.,True,"['Rape', 'Sexual Abuse-1st Degree']","['HOT SPRING', 'HOT SPRING']"

@@ -1,0 +1,28 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:23:52.162124
+"Ashley, James L",CAUCASIAN,MALE,03/30/1947,10/23/1991,Grimes Unit,Life WO,,True,['Capital Murder'],['PULASKI']
+"Barnes, Robert ",CAUCASIAN,MALE,08/04/1947,01/30/1986,Wrightsville Unit,Life,,True,['Murder-1st Degree'],['PULASKI']
+"Blake, Herbert G",CAUCASIAN,MALE,10/27/1947,11/06/2007,Wrightsville Unit,01/10/2021,20 yrs.,True,"['Sexual Abuse-1st Degree', 'Rape']","['POLK', 'POLK']"
+"Bruce, Randy M",CAUCASIAN,MALE,03/20/1947,02/16/2006,Ouachita River Correct. Unit,05/19/2033,40 yrs.,True,['Rape'],['POINSETT']
+"CollierIII, James ",BLACK,MALE,10/13/1947,03/14/2012,Jefferson Cnty Waiting List,08/12/2023,8 yrs.,False,"['Agg Asslt On Fam/Household', 'Offense com. presence of child']","['JEFFERSON', 'JEFFERSON']"
+"Crow, Nancy ",CAUCASIAN,FEMALE,10/21/1947,06/08/1990,McPherson Unit,Life WO,,True,['Capital Murder'],['JOHNSON']
+"Fletcher, Billy ",CAUCASIAN,MALE,06/08/1947,08/28/2007,Varner Unit,Life,,True,['Murder-1st Degree'],['NEWTON']
+"Gregory, Leland D",CAUCASIAN,MALE,08/05/1947,09/11/2019,Ouachita River Correct. Unit,05/05/2021,10 yrs.,True,"['Sexual Assault 2nd Degree', 'Criminal Attempt<br> - Sexual Assault 2nd Degree']","['BOONE', 'BOONE']"
+"Hall, Donald W",CAUCASIAN,MALE,07/11/1947,07/29/2008,Ouachita River Correct. Unit,02/26/2011,20 yrs.,True,['Sexual Assault 2nd Degree'],['WASHINGTON']
+"Hansbraugh, William ",CAUCASIAN,MALE,11/05/1947,05/04/2021,Ester Unit,11/06/2022,10 yrs.,True,['Sexual Assault 2nd Degree'],['POPE']
+"Hardwick, William C",CAUCASIAN,MALE,01/31/1947,07/29/2019,Wrightsville Unit,07/17/2021,12 yrs.,True,"['Sexual Assault 2nd Degree', 'Failure To Register']","['FAULKNER', 'FAULKNER']"
+"Hill, Presley A",BLACK,MALE,06/08/1947,03/09/1971,Tucker Unit,Life,,True,['Murder-1st Degree'],['LINCOLN']
+"Holbird, Judy ",NA INDIAN,FEMALE,02/15/1947,08/04/1988,McPherson Unit,03/27/2054,166 yrs.,True,"['Aggravated Robbery', 'Poss. Firearm Certain Pers', 'Aggravated Robbery', 'Poss. Firearm Certain Pers', 'Criminal Attempt<br> - Capital Murder', 'Poss. Firearm Certain Pers']","['SEBASTIAN', 'SEBASTIAN', 'SEBASTIAN', 'SEBASTIAN', 'SEBASTIAN', 'SEBASTIAN']"
+"James, Robert L",CAUCASIAN,MALE,11/07/1947,09/30/2009,Varner Unit,Life,,True,['Murder-1st Degree'],['LOGAN']
+"Kilpatrick, Jimmy L",CAUCASIAN,MALE,09/21/1947,02/03/2020,Ester Unit,12/21/2023,12 yrs.,True,['Murder-2nd Degree'],['SALINE']
+"Mammedaty, Rudy ",CAUCASIAN,MALE,03/12/1947,08/07/2000,Cummins Unit,01/17/2028,40 yrs.,True,"['Rape', 'Trans/Dist.Mat.Depi.Child']","['SEBASTIAN', 'SEBASTIAN']"
+"Martinez-Marmol, Gilberto ",HISPANIC,MALE,07/05/1947,02/09/2012,Cummins Unit,02/23/2028,25 yrs.,True,['Rape'],['WASHINGTON']
+"McCoy, Gary E",CAUCASIAN,MALE,12/13/1947,01/17/1970,Ouachita River Correct. Unit,Life,,True,['Murder-1st Degree'],['LOGAN']
+"Phillips, David L",CAUCASIAN,MALE,09/02/1947,12/17/2008,Cummins Unit,11/25/2012,20 yrs.,True,['Sexual Assault 2nd Degree<br> - Probation Revocation'],['MILLER']
+"Phillips, Freida A",CAUCASIAN,FEMALE,02/03/1947,02/12/1986,McPherson Unit,Life,,True,['Murder-1st Degree'],['CLARK']
+"Phillips, William ",CAUCASIAN,MALE,02/06/1947,12/16/2010,Grimes Unit,07/25/2017,28 yrs.,True,"['Murder-2nd Degree', 'Felony With Firearm']","['PULASKI', 'PULASKI']"
+"Pierce, Larry G",CAUCASIAN,MALE,05/23/1947,07/02/2010,Ouachita River Correct. Unit,09/15/2027,25 yrs.,True,['Rape'],['HOT SPRING']
+"Pitts, Eugene I",BLACK,MALE,09/01/1947,07/20/1979,Cummins Unit,Life WO,,True,['Capital Murder'],['PULASKI']
+"Ray, Gifford ",CAUCASIAN,MALE,10/14/1947,07/06/1990,Ouachita River Correct. Unit,Life,,True,['Murder-1st Degree'],['HOT SPRING']
+"Smith, Albert K",CAUCASIAN,MALE,11/13/1947,05/05/2005,Cummins Unit,Life WO,,True,"['Capital Murder', 'Kidnapping']","['BENTON', 'BENTON']"
+"Stalnaker, Danny W",CAUCASIAN,MALE,07/10/1947,06/12/2013,Ouachita River Correct. Unit,05/17/2023,45 yrs.,True,"['Murder-2nd Degree<br> - Habitual Offender', 'Poss. Firearm Certain Pers']","['SALINE', 'SALINE']"
+"Strouthers, James ",BLACK,MALE,09/22/1947,07/14/1971,Cummins Unit,Life,,True,['Murder-1st Degree'],['PULASKI']

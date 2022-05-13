@@ -1,0 +1,14 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:26:08.629012
+"Barrow, Melvin ",CAUCASIAN,MALE,11/10/1945,05/01/2014,North Central Unit,11/18/2021,45 yrs.,False,"['Dist/Poss/View Sex Explicit', 'Dist/Poss/View Sex Explicit', 'Dist/Poss/View Sex Explicit']","['FAULKNER', 'FAULKNER', 'FAULKNER']"
+"Brumley, Wayne O",CAUCASIAN,MALE,08/01/1945,06/16/2021,Grimes Unit,03/01/2034,20 yrs.,True,"['Rape', 'Sexual Assault 2nd Degree']","['WASHINGTON', 'WASHINGTON']"
+"Coalter, Kelly E",CAUCASIAN,FEMALE,11/03/1945,08/24/2012,McPherson Unit,11/08/2017,20 yrs.,True,['Murder-2nd Degree'],['MISSISSIPPI']
+"Fukunaga, Alvin T",ASIAN,MALE,02/09/1945,03/05/2013,Ester Unit,02/25/2020,10 yrs.,True,['Rape'],['PULASKI']
+"Hill, Billy C",CAUCASIAN,MALE,04/03/1945,09/23/2019,Pine Bluff Unit,01/07/2023,20 yrs.,True,['Sexual Assault 2nd Degree'],['PERRY']
+"Jones, James G",CAUCASIAN,MALE,09/01/1945,10/02/2014,North Central Unit,08/26/2043,30 yrs.,True,['Sexual Assault 1st Degree<br> - Habitual Offender'],['GARLAND']
+"Jones, Jessie L",BLACK,MALE,02/26/1945,05/09/1968,DOC Central Office,01/01/2021,18 yrs.,True,['Criminal Attempt<br> - Rape'],['PULASKI']
+"Reed, Joe W",BLACK,MALE,11/27/1945,12/09/1986,East AR Region.Unit,Life,,True,"['Burglary', 'Rape']","['PULASKI', 'PULASKI']"
+"Ritter, Clifford M",CAUCASIAN,MALE,04/17/1945,08/31/2010,Cummins Unit,Life,,True,"['Murder-1st Degree', 'Felony With Firearm']","['SCOTT', 'SCOTT']"
+"Seyller, Jerry G",CAUCASIAN,MALE,05/16/1945,12/31/2018,Ouachita River Correct. Unit,05/30/2027,12 yrs.,True,['Rape'],['ARKANSAS']
+"Stevenson, Tommie ",BLACK,MALE,08/08/1945,03/26/2019,Ouachita River Correct. Unit,05/16/2020,7 yrs.,True,['Sexual Assault 2nd Degree'],['PULASKI']
+"Thacker, Harlie E",CAUCASIAN,MALE,07/09/1945,06/13/2012,Ouachita River Correct. Unit,05/24/2021,35 yrs.,True,['Sexual Assault 1st Degree'],['GREENE']
+"Watkins, Lester G",CAUCASIAN,MALE,10/17/1945,08/19/2009,Ouachita River Correct. Unit,01/03/2029,20 yrs.,True,"['Rape', 'Sexual Assault 2nd Degree']","['BENTON', 'BENTON']"

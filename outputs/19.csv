@@ -1,0 +1,25 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-13 10:52:03.309491
+"Abston, Lasavion K",BLACK,MALE,11/23/2003,02/04/2022,Ester Unit,06/09/2023,10 yrs.,True,['Sexual Assault 2nd Degree'],['PULASKI']
+"Boone, Jordan J",BLACK,MALE,11/18/2003,12/06/2021,Randall L. Williams Cor. Facility,05/30/2027,20 yrs.,False,['Battery-1st Degree'],['UNION']
+"Brown, Christopher ",BLACK,MALE,04/21/2003,11/05/2021,Ouachita River Correct. Unit New Commitment,10/31/2022,5 yrs.,True,"['Theft of Property &gt; ,000', 'Aggravated Assault', 'Terroristic Act']","['HOWARD', 'MILLER', 'MILLER']"
+"Bush, Stanley ",BLACK,MALE,05/12/2003,03/15/2022,Tucker Unit,01/01/2024,12 yrs.,True,"['Aggravated Assault', 'Terroristic Act']","['PULASKI', 'PULASKI']"
+"Campbell, Ricky L",BLACK,MALE,12/06/2003,06/25/2021,Randall L. Williams Cor. Facility,03/10/2025,12 yrs.,False,['Robbery'],['UNION']
+"D'angelo, Diante J",BLACK,MALE,11/12/2003,02/10/2022,Ouachita River Correct. Unit,05/01/2022,3 yrs.,False,"['Breaking And Entering', 'Theft by Receiving &gt; ,000 &lt;= ,000']","['FAULKNER', 'FAULKNER']"
+"DansbyJr, Joseph ",BLACK,MALE,01/03/2003,11/23/2020,Pine Bluff Unit,10/09/2023,10 yrs.,True,"['Discharge Firearm Vehicle', 'Criminal Attempt<br> - Battery-1st Degree', 'Aggravated Assault']","['HEMPSTEAD', 'HEMPSTEAD', 'HEMPSTEAD']"
+"Easter, Jakobe M",BLACK,MALE,07/31/2003,03/28/2022,Ouachita River Correct. Unit,02/27/2026,15 yrs.,True,"['Robbery<br> - Probation Revocation', 'Terroristic Act', 'Escape-1st Degree', 'Battery-2nd Degree', 'Impair Oper.Vital Pub.Fac']","['MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER']"
+"Halsdorf, Christopher S",CAUCASIAN,MALE,02/11/2003,02/08/2022,Grimes Unit,11/09/2023,8 yrs.,False,"['Battery-1st Degree', 'Possession of handgun by juvenile delinquent']","['PULASKI', 'PULASKI']"
+"Harkreader, Landon M",CAUCASIAN,MALE,11/03/2003,08/25/2021,East AR Max Unit,06/21/2023,8 yrs.,False,"['Domestic Battering 2nd Deg', 'Endgr Welf.Of Minor 1st Dg', 'Failure To Appear']","['JOHNSON', 'JOHNSON', 'JOHNSON']"
+"Harris, Gavin ",BLACK,MALE,01/25/2003,01/31/2022,Ouachita River Correct. Unit New Commitment,09/03/2022,3 yrs.,True,['Terroristic Act'],['CRAIGHEAD']
+"Harris, Malachi D",BLACK,MALE,02/27/2003,04/29/2021,Varner Unit,11/23/2025,20 yrs.,True,['Murder-2nd Degree'],['CRITTENDEN']
+"Hill, Ethan C",CAUCASIAN,MALE,02/25/2003,03/14/2022,Clark County Waiting List,10/24/2026,10 yrs.,False,"['Robbery', 'Failure to Appear', 'Breaking And Entering', 'Residential Burglary']","['GARLAND', 'GARLAND', 'GARLAND', 'CLARK']"
+"Hunt, Kenndric ",BLACK,MALE,07/24/2003,04/22/2020,Pulaski County Waiting List,12/06/2021,8 yrs.,False,"['Robbery', 'Theft of Property Obtnd by Threat of Serious Physical Injury']","['PULASKI', 'PULASKI']"
+"Krah, Robert ",CAUCASIAN,MALE,06/09/2003,10/12/2021,Tucker Unit,04/15/2023,10 yrs.,False,"['Manslaughter', 'Abuse Of A Corpse', 'Tamper With Phys.Evid.']","['GARLAND', 'GARLAND', 'GARLAND']"
+"Mitchell, Joseph J",CAUCASIAN,MALE,02/05/2003,02/18/2022,Ouachita County Waiting List,01/25/2025,8 yrs.,False,['Battery-1st Degree'],['GARLAND']
+"Miya, Quebec S",BLACK,MALE,02/04/2003,02/16/2022,East AR Region.Unit,04/21/2028,32 yrs.,False,"['Criminal Use Proh. Weapon<br> - Probation Revocation', 'Poss W Purp Del Cont Sub  Sched Vl &gt; 14g &lt; 4 oz<br> - Probation Revocation', 'Tamper With Phys.Evid.<br> - Probation Revocation']","['JACKSON', 'JACKSON', 'JACKSON']"
+"Pollock, Brian C",BLACK,MALE,05/09/2003,12/02/2020,East AR Max Unit,01/16/2055,50 yrs.,True,"['Murder-1st Degree', 'Felony With Firearm', 'Tamper With Phys.Evid.', 'Aggravated Robbery']","['ASHLEY', 'ASHLEY', 'ASHLEY', 'ASHLEY']"
+"Reid, Ethan J",CAUCASIAN,MALE,11/25/2003,04/21/2022,Sebastian Cnty Waiting List,11/24/2025,8 yrs.,False,['Battery-1st Degree'],['SEBASTIAN']
+"Rowland, John G",CAUCASIAN,MALE,01/26/2003,03/17/2022,Washington Cnty Waiting List,03/15/2027,15 yrs.,True,['Terroristic Act'],['WASHINGTON']
+"Spencer, Nathaniel ",CAUCASIAN,MALE,07/17/2003,03/15/2022,Grimes Unit,11/07/2023,6 yrs.,True,"['Aggravated Assault<br> - Probation Revocation', 'Terroristic Threat.1st Deg<br> - Probation Revocation', 'Burglary - Residential', 'Theft of Property (Firearm) &gt;,500']","['POPE', 'POPE', 'POPE', 'POPE']"
+"Williams, Jayden ",BLACK,MALE,02/21/2003,03/31/2022,Ouachita River Correct. Unit,04/11/2022,1 yrs.,False,['Battery-2nd Degree'],['HEMPSTEAD']
+"Williams, Kilyzjhia ",BLACK,MALE,04/28/2003,11/16/2021,Randall L. Williams Cor. Facility,08/12/2022,3 yrs.,True,['Terroristic Act'],['CRITTENDEN']
+"Young, Isaiah E",BLACK,MALE,04/29/2003,10/08/2020,East AR Region.Unit,11/17/2023,11 yrs.,False,['Battery-1st Degree'],['GARLAND']

@@ -1,0 +1,16 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:27:19.662545
+"Antoniello, Ronald A",CAUCASIAN,MALE,01/26/1943,12/19/2016,Maximum Security Unt,11/11/2066,300 yrs.,False,['Dist/Poss/View Sex Explicit'],['MILLER']
+"Chronister, Lemuel D",CAUCASIAN,MALE,06/04/1943,11/13/2020,Conway County Waiting List,03/23/2021,2 yrs.,False,"['Theft of Property &gt;= ,000 &lt; ,000<br> - Probation Revocation', 'Fail To Appear Regarding Order Issued Before Revocation Hear', 'Failure To Appear', 'Fail To Appear Regarding Order Issued Before Revocation Hear']","['POPE', 'POPE', 'POPE', 'POPE']"
+"Cool, Elmer J",CAUCASIAN,MALE,08/12/1943,09/24/2021,Wrightsville Unit,11/04/2030,35 yrs.,False,"['Battery-1st Degree', 'Battery-1st Degree', 'Criminal Poss. Of Explos.']","['PULASKI', 'PULASKI', 'PULASKI']"
+"Hendrickson, Patricia ",CAUCASIAN,FEMALE,09/30/1943,04/13/1984,McPherson Unit,Life WO,,True,['Capital Murder'],['CLARK']
+"Hodge, David C",CAUCASIAN,MALE,10/03/1943,10/23/2006,Ester Unit,08/01/2014,15 yrs.,False,"['Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs<br> - Probation Revocation<br> - Habitual Offender', 'Poss Cont Sub Sched l,ll Meth Cocaine =&gt; 2g &lt; 10g<br> - Habitual Offender']","['WASHINGTON', 'WASHINGTON', 'WASHINGTON', 'WASHINGTON']"
+"Krieger, John ",CAUCASIAN,MALE,11/01/1943,09/28/2021,Delta Regional Unit,10/02/2024,10 yrs.,True,['Sexual Assault 2nd Degree'],['HOWARD']
+"Mitleff, O T",CAUCASIAN,MALE,03/07/1943,10/24/2007,Ouachita River Correct. Unit,03/30/2035,40 yrs.,True,"['Rape', 'Rape', 'Sexual Assault 2nd Degree']","['IZARD', 'IZARD', 'IZARD']"
+"Pafford, James C",CAUCASIAN,MALE,11/06/1943,02/16/2016,Ouachita River Correct. Unit,02/15/2051,50 yrs.,True,"['Rape', 'Sexual Assault 2nd Degree']","['HEMPSTEAD', 'HEMPSTEAD']"
+"Poland, Wayne F",CAUCASIAN,MALE,08/16/1943,09/03/2009,Ouachita River Correct. Unit,11/19/2024,25 yrs.,True,"['Rape', 'Dist/Poss/View Sex Explicit', 'Failure To Appear']","['CLARK', 'CLARK', 'CLARK']"
+"Ruff, Ardy A",CAUCASIAN,MALE,02/13/1943,02/16/2016,North Central Unit,10/03/2025,20 yrs.,True,"['Rape', 'Sexual Assault 2nd Degree']","['SALINE', 'SALINE']"
+"Smith, William ",CAUCASIAN,MALE,11/14/1943,03/10/2022,Ouachita River Correct. Unit,10/03/2022,3 yrs.,False,['Manslaughter'],['WASHINGTON']
+"Standridge, Robert D",CAUCASIAN,MALE,04/14/1943,10/27/1995,Varner Unit,Life,,True,"['Battery-2nd Degree<br> - Probation Revocation', 'Murder-1st Degree']","['SEBASTIAN', 'SEBASTIAN']"
+"Upton, Harold S",CAUCASIAN,MALE,10/23/1943,09/14/1972,Tucker Unit,Life,,True,['Murder-1st Degree'],['COLUMBIA']
+"Wiles, Manoid K",CAUCASIAN,MALE,03/23/1943,08/15/2012,Tucker Unit,04/15/2026,20 yrs.,True,['Rape'],['POPE']
+"Woodell, William E",CAUCASIAN,MALE,01/21/1943,04/25/2014,Ouachita River Correct. Unit,12/06/2023,15 yrs.,True,"['Sexual Assault 2nd Degree', 'Rape']","['GARLAND', 'GARLAND']"

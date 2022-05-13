@@ -1,0 +1,89 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:03:52.085537
+"Aaron, Barry G",CAUCASIAN,MALE,02/28/1955,08/22/1991,East AR Max Unit,Life,,True,"['Kidnapping', 'Rape']","['MILLER', 'MILLER']"
+"Augustus, Danny R",BLACK,MALE,02/26/1955,02/22/2022,Ester Unit,02/10/2022,1 yrs.,False,"['Poss Drug Paraphernalia Meth Cocaine', 'Poss Cont Sub Sched l,ll Meth Cocaine &lt; 2g', 'Poss Drug Paraphernalia Meth Cocaine']","['SEBASTIAN', 'SEBASTIAN', 'SEBASTIAN']"
+"Bargo, Jerome A",CAUCASIAN,MALE,01/28/1955,03/10/1988,Varner Unit,04/04/2074,140 yrs.,True,"['Criminal Attempt<br> - Capital Murder', 'Burglary', 'Theft Of Property']","['BENTON', 'BENTON', 'BENTON']"
+"Baumann, Anthony ",CAUCASIAN,MALE,02/11/1955,10/19/2017,Ouachita River Correct. Unit,01/27/2021,20 yrs.,True,['Sexual Assault 2nd Degree'],['BENTON']
+"Bayless, Ricky J",CAUCASIAN,MALE,12/25/1955,02/17/2010,Ouachita River Correct. Unit,10/12/2019,15 yrs.,True,['Rape'],['ARKANSAS']
+"Berna, Rickie E",CAUCASIAN,MALE,10/05/1955,05/11/1983,Ouachita River Correct. Unit,Life,,True,"['Rape', 'Kidnapping', 'Kidnapping', 'Kidnapping', 'Aggravated Robbery']","['CRAWFORD', 'CRAWFORD', 'CRAWFORD', 'CRAWFORD', 'CRAWFORD']"
+"Berry, Marion ",CAUCASIAN,MALE,11/10/1955,03/19/2021,Randall L. Williams Cor. Facility,06/20/2023,14 yrs.,False,"['Poss W Purp Del Meth Cocaine =&gt; 2g&lt; 10g<br> - Probation Revocation', 'Poss Cont Sub Sched l,ll Meth Cocaine &lt; 2g<br> - Probation Revocation', 'Poss W Purp Del Meth Cocaine =&gt; 2g&lt; 10g<br> - Probation Revocation', 'Poss Cont Sub Sched l,ll Meth Cocaine &lt; 2g<br> - Probation Revocation', 'Poss Drug Paraphernalia Man Meth Cocaine<br> - Habitual Offender', 'Breaking And Entering']","['JACKSON', 'JACKSON', 'JACKSON', 'JACKSON', 'JACKSON', 'IZARD']"
+"Brannon, C.R. F",CAUCASIAN,MALE,06/10/1955,10/09/2002,Cummins Unit,10/25/2021,50 yrs.,True,"['Sexual Abuse-1st Degree', 'Rape', 'Carnal Abuse-3rd Degree']","['FULTON', 'FULTON', 'FULTON']"
+"Brooks, Phillip ",CAUCASIAN,MALE,09/23/1955,02/14/1983,Cummins Unit,Life WO,,True,"['Capital Murder', 'Poss. Firearm Certain Pers']","['GREENE', 'GREENE']"
+"Brown, Bobby ",CAUCASIAN,MALE,01/22/1955,10/23/1978,Cummins Unit,Life,,True,['Murder-1st Degree'],['POINSETT']
+"Burnett, Larry ",CAUCASIAN,MALE,02/02/1955,10/08/1984,AR State Police,Life,,True,['Murder-1st Degree'],['FAULKNER']
+"Burns, Michael ",CAUCASIAN,MALE,05/29/1955,11/10/1994,Ouachita River Correct. Unit,Life WO,,True,"['Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Aggravated Assault', 'Aggravated Assault', 'Aggravated Assault']","['UNION', 'UNION', 'UNION', 'UNION', 'UNION', 'UNION', 'UNION', 'UNION', 'UNION', 'UNION', 'UNION']"
+"Byrd, Lloyd ",BLACK,MALE,08/28/1955,10/27/1974,East AR Region.Unit,Life,,True,"['Kidnapping', 'Kidnapping', 'Kidnapping', 'Kidnapping', 'Rape', 'Rape', 'Rape', 'Rape', 'Robbery', 'Robbery', 'Robbery']","['MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER', 'MILLER']"
+"Carrier, Donald ",CAUCASIAN,MALE,08/14/1955,11/13/1981,Cummins Unit,Life,,True,"['Murder-1st Degree', 'Kidnapping']","['UNION', 'CRAIGHEAD']"
+"Carrington, Ronnie D",CAUCASIAN,MALE,10/19/1955,01/22/2020,Ouachita River Correct. Unit,10/29/2020,3 yrs.,True,"['Terroristic Threat.1st Deg', 'Arson']","['PULASKI', 'PULASKI']"
+"CarsonSr, Rickey L",CAUCASIAN,MALE,12/29/1955,09/27/2012,Ester Unit,06/03/2019,40 yrs.,True,['Sexual Assault 2nd Degree'],['BENTON']
+"Carter, Walter G",CAUCASIAN,MALE,12/31/1955,05/11/1995,East AR Region.Unit,Life WO,,True,"['Capital Murder', 'Residential Burglary']","['CRITTENDEN', 'CRITTENDEN']"
+"Charron, Eugene F",CAUCASIAN,MALE,05/28/1955,11/14/2013,Ester Unit,02/26/2016,15 yrs.,False,['Dist/Poss/View Sex Explicit<br> - Habitual Offender'],['PULASKI']
+"Cheatham, Willy R",BLACK,MALE,01/31/1955,10/25/1973,Tucker Unit,Life,,True,"['Burglary', 'Theft Of Property', 'Rape']","['HEMPSTEAD', 'HEMPSTEAD', 'HEMPSTEAD']"
+"Colbert, Charles ",BLACK,MALE,12/04/1955,09/27/1990,Maximum Security Unt,Life,,True,['Murder-1st Degree'],['DESHA']
+"Craig, Charles L",CAUCASIAN,MALE,04/15/1955,06/13/2018,Cummins Unit,10/04/2025,30 yrs.,True,"['Sexual Assault 1st Degree', 'Sexual Solic. Of A Child']","['WHITE', 'WHITE']"
+"Dalton, Melvin J",CAUCASIAN,MALE,07/21/1955,08/13/1990,Grimes Unit,04/24/2027,25 yrs.,True,"['Rape', 'Rape', 'Sexual Assault 2nd Degree', 'Rape']","['WOODRUFF', 'WOODRUFF', 'JACKSON', 'JACKSON']"
+"Davis, Samuel O",BLACK,MALE,04/19/1955,09/12/1974,East AR Region.Unit,Life WO,,True,['Murder-1st Degree'],['CROSS']
+"Didier, Edward J",CAUCASIAN,MALE,12/27/1955,07/07/2021,Delta Regional Unit,03/29/2023,6 yrs.,True,"['Aggravated Residential Burglary', 'Battery-1st Degree', 'Terroristic Threat.1st Deg']","['POPE', 'POPE', 'POPE']"
+"Ferguson, James A",CAUCASIAN,MALE,02/26/1955,02/08/1999,East AR Region.Unit,Life,,True,['Murder-1st Degree'],['WOODRUFF']
+"Findley, Robert L",CAUCASIAN,MALE,08/26/1955,10/14/1988,Cummins Unit,Life WO,,True,['Capital Murder'],['CRAIGHEAD']
+"Floyd, Jackie L",CAUCASIAN,FEMALE,06/16/1955,09/02/1988,McPherson Unit,Life,,True,['Murder-1st Degree'],['SEBASTIAN']
+"Gardner, Gary W",CAUCASIAN,MALE,09/26/1955,03/06/2003,North Central Unit,02/04/2030,40 yrs.,True,"['Forgery<br> - Forgery<br> - Viol Of DWI 4th Offense', 'Murder-1st Degree']","['POINSETT', 'POINSETT']"
+"Garner, Robert D",CAUCASIAN,MALE,03/15/1955,05/04/2021,Ester Unit,10/24/2022,14 yrs.,False,"['Abuse of Corpse', 'Tamper With Phys.Evid.']","['LONOKE', 'LONOKE']"
+"GaulJr, Ronald T",CAUCASIAN,MALE,09/06/1955,07/23/2002,Cummins Unit,Life,,True,"['Rape', 'Eng.Child Sex Expct Condt', 'Empl.Author Child&lt;17 Sex', 'Trans/Dist.Mat.Depi.Child']","['CARROLL', 'CARROLL', 'CARROLL', 'CARROLL']"
+"Gray, Rufus ",BLACK,MALE,08/03/1955,03/24/2008,Cummins Unit,07/19/2052,45 yrs.,True,['Criminal Attempt<br> - Rape<br> - Habitual Offender'],['CLARK']
+"Greene, Jack ",CAUCASIAN,MALE,03/13/1955,10/15/1992,Varner Supermax,Death,,True,['Capital Murder'],['JOHNSON']
+"Griswold, Thomas L",CAUCASIAN,MALE,08/13/1955,11/12/1985,East AR Region.Unit,Life,,True,"['Rape', 'Rape', 'Rape']","['YELL', 'YELL', 'YELL']"
+"GuthrieJr, Oscar ",BLACK,MALE,11/14/1955,08/28/1996,Cummins Unit,Life WO,,True,['Capital Murder'],['SHARP']
+"Hansler, Michael E",CAUCASIAN,MALE,01/10/1955,01/21/2016,Wrightsville Unit,03/16/2026,15 yrs.,True,['Rape'],['POPE']
+"Hardin, David C",CAUCASIAN,MALE,12/20/1955,08/18/2014,Jefferson Cnty Waiting List,07/20/2017,5 yrs.,False,"['Poss. Firearm Certain Pers<br> - Habitual Offender', 'Theft of Property &gt;= ,000 &lt; ,000']","['BOONE', 'IZARD']"
+"Hensley, David A",CAUCASIAN,MALE,01/29/1955,08/01/1979,Cummins Unit,02/10/2029,90 yrs.,True,"['Burglary', 'Criminal Attempt<br> - Capital Murder']","['MILLER', 'MILLER']"
+"Hodges, Terry L",BLACK,MALE,07/26/1955,07/06/1977,Cummins Unit,Life,,True,['Rape'],['GARLAND']
+"Jakovich, John D",CAUCASIAN,MALE,08/02/1955,01/03/2022,Logan County Waiting List,10/14/2024,6 yrs.,False,"['Robbery', 'Theft of Property &gt;= ,000 &lt; ,000']","['MADISON', 'MADISON']"
+"James, Clyde C",CAUCASIAN,MALE,01/05/1955,11/15/2004,Delta Regional Unit,11/21/2034,30 yrs.,True,['Sexual Assault 2nd Degree<br> - Habitual Offender'],['SEBASTIAN']
+"Johnson, Tony B",BLACK,MALE,07/18/1955,04/18/2008,Varner Supermax,Life,,True,"['Criminal Attempt<br> - Capital Murder', 'Felony With Firearm']","['PULASKI', 'PULASKI']"
+"JohnsonJr, James ",BLACK,MALE,10/13/1955,06/04/1993,Cummins Unit,Life,,True,['Murder-1st Degree'],['PHILLIPS']
+"Jones, Eddie L",BLACK,MALE,01/22/1955,10/18/1975,Cummins Unit,Life,,True,"['Murder-1st Degree', 'Rape', 'Kidnapping', 'Theft Of Property']","['CRAIGHEAD', 'CRAIGHEAD', 'CRAIGHEAD', 'CRAIGHEAD']"
+"Keck, Carlos A",CAUCASIAN,MALE,07/20/1955,04/03/2008,Wrightsville Hawkins For Males,09/04/2025,25 yrs.,True,['Rape'],['SALINE']
+"Kennel, L.E. ",BLACK,MALE,02/22/1955,10/14/2011,Ouachita River Correct. Unit,12/06/2022,30 yrs.,False,"['Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs', 'Poss W Purpose Del Meth Cocaine &lt; 2g<br> - Habitual Offender']","['LITTLE RIVER', 'HEMPSTEAD', 'HEMPSTEAD', 'CLARK']"
+"Lassiter, Loid D",CAUCASIAN,MALE,12/28/1955,02/11/2008,Varner Unit,03/11/2011,18 yrs.,True,['Sexual Assault 2nd Degree'],['CRAIGHEAD']
+"Layne, Samuel E",CAUCASIAN,MALE,10/09/1955,06/29/2017,Tucker Unit,12/11/2034,25 yrs.,True,['Rape'],['OUACHITA']
+"Light, James L",CAUCASIAN,MALE,08/07/1955,06/09/2000,Cummins Unit,12/07/2035,70 yrs.,True,"['Rape', 'Criminal Attempt<br> - Rape']","['WASHINGTON', 'WASHINGTON']"
+"Manning, Travis ",BLACK,MALE,12/13/1955,05/11/2009,East AR Max Unit,11/01/2021,30 yrs.,False,['Man.Delv.Poss Cont Subs'],['UNION']
+"Mauppin, Gary ",CAUCASIAN,MALE,07/04/1955,10/11/1990,Cummins Unit,Life WO,,True,"['Capital Murder', 'Criminal Attempt<br> - Capital Murder', 'Criminal Attempt<br> - Capital Murder']","['ST FRANCIS', 'ST FRANCIS', 'ST FRANCIS']"
+"McClard, Gary R",CAUCASIAN,MALE,09/11/1955,11/02/2020,Wrightsville Unit,08/21/2021,5 yrs.,False,"['Failure To Register<br> - Habitual Offender', 'Failure To Register<br> - Probation Revocation']","['HOT SPRING', 'HOT SPRING']"
+"McDaniels, Willie A",BLACK,MALE,02/06/1955,09/16/2010,Ouachita River Correct. Unit,09/08/2038,40 yrs.,True,['Rape'],['PULASKI']
+"McJames, Ronald D",BLACK,MALE,04/24/1955,08/21/2003,East AR Region.Unit,Life WO,,True,['Capital Murder<br> - Habitual Offender'],['PULASKI']
+"Meny, Carl L",CAUCASIAN,MALE,09/03/1955,07/09/1992,Wrightsville Unit,Life,,True,"['Rape', 'Rape', 'Rape', 'Criminal Attempt<br> - Capital Murder', 'Kidnapping']","['SALINE', 'SALINE', 'SALINE', 'SALINE', 'SALINE']"
+"Mireles, Avin B",HISPANIC,MALE,01/02/1955,06/11/2015,North Central Unit,02/11/2032,25 yrs.,True,['Rape'],['PULASKI']
+"Nowden, Kenneth L",BLACK,MALE,10/26/1955,05/11/1982,Cummins Unit,Life,,True,"['Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Aggravated Robbery', 'Battery-1st Degree', 'Theft Of Property', 'Battery-2nd Degree', 'Theft Of Property']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Oglesby, Molton ",BLACK,MALE,08/08/1955,03/09/2018,Grimes Unit,03/03/2045,40 yrs.,True,"['Murder-1st Degree', 'Abuse of Corpse']","['JEFFERSON', 'JEFFERSON']"
+"Parmley, Frank R",CAUCASIAN,MALE,09/22/1955,05/21/2004,Pine Bluff Unit,07/03/2016,28 yrs.,False,"['Man.Delv.Poss Cont Subs', 'Fraud Etc Drug Paraphern.', 'Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs<br> - Probation Revocation', 'Fraud Etc Drug Paraphern.<br> - Probation Revocation', 'Man.Delv.Poss Cont Subs<br> - Probation Revocation', 'Man.Delv.Poss Cont Subs']","['BENTON', 'BENTON', 'BENTON', 'BENTON', 'BENTON', 'BENTON', 'BENTON']"
+"Peppers, Alee ",BLACK,MALE,11/26/1955,08/16/2002,Ouachita River Correct. Unit,07/25/2022,30 yrs.,True,"['Rape', 'Terroristic Threat.1st Deg']","['POINSETT', 'POINSETT']"
+"Peterson, Kenneth R",CAUCASIAN,MALE,08/29/1955,04/18/2022,Ouachita River Correct. Unit New Commitment,05/30/2023,6 yrs.,False,['Reg Offdner prohibit frm swim/child playgnd in AR State Park'],['BENTON']
+"Pierce, Jerry ",CAUCASIAN,MALE,07/12/1955,10/30/2020,Pine Bluff Unit,09/14/2024,8 yrs.,False,"['Possess W Purpose Del Meth Cocaine=&gt; 10g &lt; 200g', 'Possess W Purpose Del Meth Cocaine=&gt; 10g &lt; 200g']","['GARLAND', 'GARLAND']"
+"Pitts, Kenneth R",BLACK,MALE,10/06/1955,07/13/2006,East AR Max Unit,04/23/2069,75 yrs.,True,"['Sexual Indecency With A Child<br> - Habitual Offender', 'Sexual Assault 2nd Degree<br> - Habitual Offender']","['PULASKI', 'PULASKI']"
+"Poplar, Clyde ",BLACK,MALE,04/16/1955,12/05/2008,Jefferson Cnty Waiting List,08/28/2009,5 yrs.,False,"['Man.Delv.Poss Cont Subs<br> - Probation Revocation', 'Fraud Etc Drug Paraphern.<br> - Probation Revocation']","['JEFFERSON', 'JEFFERSON']"
+"Reed, Richard ",CAUCASIAN,MALE,07/04/1955,06/05/2002,Wrightsville Unit,04/30/2018,20 yrs.,False,"['Theft Of Property<br> - Probation Revocation', 'Failure To Register', 'Failure To Register<br> - Habitual Offender', 'Theft Of Property<br> - Probation Revocation', 'Man.Delv.Poss Cont Subs']","['GARLAND', 'GARLAND', 'GARLAND', 'GARLAND', 'SALINE']"
+"Robbins, Mike K",CAUCASIAN,MALE,04/28/1955,04/14/2011,Ouachita River Correct. Unit,01/26/2028,25 yrs.,True,['Rape'],['GREENE']
+"Roe, Michael R",CAUCASIAN,MALE,09/13/1955,05/22/2017,Wrightsville Hawkins For Males,10/28/2027,40 yrs.,True,"['Sexual Assault 2nd Degree', 'Sexual Assault 2nd Degree', 'Sexual Assault 1st Degree', 'Tran.Minor Proh.Conduct', 'Tran.Minor Proh.Conduct']","['CRAWFORD', 'CRAWFORD', 'FRANKLIN', 'FRANKLIN', 'FRANKLIN']"
+"Russey, Millard J",BLACK,MALE,04/18/1955,11/10/1997,Cummins Unit,Life,,True,"['Hot Check One Inst &gt; ,000', 'Rape<br> - Habitual Offender Act 1009', 'Hot Check One Inst &gt; ,000']","['CLARK', 'CLARK', 'CLARK']"
+"Sanford, Ronnie L",CAUCASIAN,MALE,08/20/1955,02/07/2011,Randall L. Williams Cor. Facility,11/13/2020,15 yrs.,True,"['Rape', 'Poss. Firearm Certain Pers', 'Aggravated Assault']","['LONOKE', 'LONOKE', 'LONOKE']"
+"Sappington, Marc V",BLACK,MALE,04/28/1955,01/07/2022,Benton County Waiting List,02/02/2030,20 yrs.,False,"['Robbery', 'Battery-1st Degree']","['BENTON', 'BENTON']"
+"Sellars, John W",CAUCASIAN,MALE,11/22/1955,04/17/1987,Ouachita River Correct. Unit,Life WO,,True,"['Theft Of Property', 'Capital Murder']","['LINCOLN', 'BRADLEY']"
+"Shockley/zakariya, Gilbert ",BLACK,MALE,10/04/1955,09/09/1977,Maximum Security Unt,Life,,True,"['Burglary', 'Battery-1st Degree', 'Burglary', 'Aggravated Robbery', 'Rape', 'Theft Of Property']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Simmons, Leon ",BLACK,MALE,09/23/1955,08/14/1992,Cummins Unit,Life,,False,"['Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs']","['DALLAS', 'DALLAS']"
+"Smith, James C",CAUCASIAN,MALE,03/19/1955,05/23/2006,Pine Bluff Unit,02/06/2026,20 yrs.,True,['Rape'],['RANDOLPH']
+"Smith, James E",BLACK,MALE,03/09/1955,08/28/2001,Ouachita River Correct. Unit,04/30/2012,40 yrs.,True,"['Rape', 'Rape']","['JEFFERSON', 'JEFFERSON']"
+"Smith, Lawrence ",BLACK,MALE,05/28/1955,07/19/1982,Cummins Unit,Life,,True,['Murder-1st Degree'],['ASHLEY']
+"Strawhacker, Lonnie D",CAUCASIAN,MALE,01/06/1955,04/18/1990,Cummins Unit,Life,,True,"['Rape', 'Battery-1st Degree']","['WASHINGTON', 'WASHINGTON']"
+"Terry, Pamela K",CAUCASIAN,FEMALE,05/06/1955,09/30/1996,McPherson Unit,Life WO,,True,"['Criminal Conspiracy<br> - Sexual Abuse-1st Degree', 'Capital Murder<br> - Habitual Offender', 'Robbery<br> - Habitual Offender', 'Theft Of Property<br> - Habitual Offender']","['ASHLEY', 'VAN BUREN', 'VAN BUREN', 'VAN BUREN']"
+"Trice, Ellis ",BLACK,MALE,11/18/1955,04/22/2009,Varner Unit,01/10/2012,15 yrs.,False,['Computer Child Pornography'],['CRAWFORD']
+"Turnbo, Clarence E",CAUCASIAN,MALE,07/06/1955,02/06/2020,Varner Unit,04/10/2037,25 yrs.,True,['Rape<br> - Habitual Offender'],['PULASKI']
+"Turner, Carl S",BLACK,MALE,12/30/1955,09/15/1995,Grimes Unit,02/01/2009,50 yrs.,True,"['Residential Burglary', 'Criminal Attempt<br> - Rape']","['WHITE', 'WHITE']"
+"Wesley, Eugene ",BLACK,MALE,02/09/1955,09/21/1993,East AR Region.Unit,Life,,True,"['Kidnapping', 'Aggravated Robbery', 'Theft Of Property']","['NEVADA', 'NEVADA', 'NEVADA']"
+"Westerman, Marion ",CAUCASIAN,MALE,10/23/1955,09/28/2001,Cummins Unit,Life,,True,['Rape'],['CLEBURNE']
+"Williams, Esther R",BLACK,FEMALE,04/02/1955,03/04/1983,Wrightsville Women's Facility,Life,,True,['Murder-1st Degree'],['UNION']
+"Williams, Floyd S",CAUCASIAN,MALE,11/20/1955,07/17/2007,Tucker Unit,02/22/2010,18 yrs.,True,['Sexual Assault 2nd Degree'],['LONOKE']
+"Williams, Herbert ",BLACK,MALE,09/06/1955,01/18/1996,Cummins Unit,12/01/2039,72 yrs.,True,"['Poss. Firearm Certain Pers<br> - Habitual Offender', 'Murder-1st Degree<br> - Habitual Offender']","['NEVADA', 'NEVADA']"
+"Wilson, Ronald ",BLACK,MALE,06/08/1955,09/22/1973,Varner Unit,Life WO,,True,"['Rape', 'Robbery', 'Robbery', 'Rape', 'Aggravated Robbery', 'Rape', 'Kidnapping', 'Battery-1st Degree', 'Capital Murder']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"WilsonJr, Charles I",BLACK,MALE,02/15/1955,06/02/2010,East AR Region.Unit,06/06/2022,40 yrs.,False,['Man.Delv.Poss Cont Subs<br> - Habitual Offender'],['SEBASTIAN']
+"Wooten, Jimmy D",CAUCASIAN,MALE,05/04/1955,07/02/2021,Grimes Unit,09/15/2021,2 yrs. 8 mo.,False,"['Failure To Register', 'Failure To Register', 'Failure To Register']","['MARION', 'MARION', 'MARION']"

@@ -1,0 +1,39 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:21:00.405893
+"Aguilar, Carlos R",CAUCASIAN,MALE,12/14/1949,03/23/2005,North Central Unit,12/25/2026,30 yrs.,True,"['Residential Burglary', 'Murder-2nd Degree']","['SALINE', 'SALINE']"
+"Alexander, Austin A",CAUCASIAN,MALE,04/01/1949,06/21/2000,Grimes Unit,10/22/2023,12 yrs.,False,"['Hot Check Violation<br> - Probation Revocation', 'Man.Delv.Poss Cont Subs', 'Man.Delv.Poss Cont Subs', 'Fraud Etc Drug Paraphern.', 'Man.Delv.Poss Cont Subs', 'Deliver Meth Cocaine &lt; 2g', 'Possess W Purpose Del Meth Cocaine=&gt; 10g &lt; 200g']","['CARROLL', 'CARROLL', 'CARROLL', 'CARROLL', 'CARROLL', 'CARROLL', 'CARROLL']"
+"Baggett, Robert ",CAUCASIAN,MALE,07/26/1949,07/29/1972,Wrightsville Unit,Life,,True,['Murder-1st Degree'],['PULASKI']
+"Ballard, Ira J",BLACK,MALE,11/01/1949,09/06/1972,Cummins Unit,Life,,True,"['Murder-1st Degree', 'Murder-1st Degree', 'Battery-2nd Degree']","['MILLER', 'MILLER', 'LINCOLN']"
+"Bennett, Gilbert ",CAUCASIAN,MALE,03/01/1949,01/26/1995,Ouachita River Correct. Unit,04/30/2002,30 yrs.,True,"['Theft Of Services', 'Fraud Use Of Credit Card', 'Rape', 'Rape']","['MILLER', 'MILLER', 'MILLER', 'MILLER']"
+"Britt, Larry W",CAUCASIAN,MALE,12/15/1949,10/10/1979,East AR Region.Unit,Life,,True,"['Aggravated Robbery', 'Aggravated Robbery', 'Escape-2nd Degree']","['UNION', 'JEFFERSON', 'JEFFERSON']"
+"Butler, James E",CAUCASIAN,MALE,12/29/1949,10/01/2009,Varner Unit,Life,,True,['Rape'],['GARLAND']
+"Cope, Joyce O",CAUCASIAN,FEMALE,04/06/1949,11/19/1986,Wrightsville Women's Facility,10/21/2005,80 yrs.,True,"['Rape', 'Rape']","['CRAIGHEAD', 'CRAIGHEAD']"
+"Davis, Michael R",CAUCASIAN,MALE,03/04/1949,11/29/2018,Grimes Unit,05/28/2025,40 yrs.,True,['Sexual Assault 2nd Degree'],['SALINE']
+"EllingtonJr, James L",CAUCASIAN,MALE,08/15/1949,08/05/2019,Ester Unit,02/24/2021,10 yrs.,True,['Sexual Assault 2nd Degree'],['CRITTENDEN']
+"Ellis, Steve ",BLACK,MALE,08/10/1949,07/14/2005,Cummins Unit,Life,,True,['Murder-1st Degree'],['CLARK']
+"Eubanks, Gary E",CAUCASIAN,MALE,04/25/1949,05/15/2012,Ester Unit,03/12/2022,60 yrs.,False,['Dist/Poss/View Sex Explicit'],['BENTON']
+"Fuller, Jackie ",CAUCASIAN,MALE,01/02/1949,06/15/1975,Ouachita River Correct. Unit,Life,,True,['Murder-1st Degree'],['SEBASTIAN']
+"Hahn, Richard ",CAUCASIAN,MALE,02/05/1949,06/16/1995,North Central Unit,01/04/2008,50 yrs.,True,"['Rape', 'Rape', 'Rape']","['SEBASTIAN', 'JOHNSON', 'JOHNSON']"
+"Haynes, James E",BLACK,MALE,05/31/1949,09/08/2000,Cummins Unit,Life,,True,['Murder-1st Degree'],['HOT SPRING']
+"Hill, Patricia ",CAUCASIAN,FEMALE,06/29/1949,05/16/2019,Wrightsville Women's Facility,12/08/2022,16 yrs.,True,"['Murder-2nd Degree', 'Felony With Firearm']","['JEFFERSON', 'JEFFERSON']"
+"Hobgood, Roger ",CAUCASIAN,MALE,08/26/1949,02/03/1977,Cummins Unit,Life,,True,"['Murder-1st Degree', 'Burglary', 'Kidnapping']","['COLUMBIA', 'COLUMBIA', 'COLUMBIA']"
+"Holloway, Phillip W",CAUCASIAN,MALE,07/20/1949,06/29/2009,Wrightsville Hawkins For Males,07/08/2016,30 yrs.,True,['Murder-2nd Degree'],['SCOTT']
+"HoyleSr, Gerald ",CAUCASIAN,MALE,10/19/1949,05/01/2007,Grimes Unit,11/19/2027,30 yrs.,True,"['Rape', 'Incest']","['JACKSON', 'JACKSON']"
+"Jenkins, Michael ",BLACK,MALE,07/11/1949,02/08/2018,Cummins Unit,01/21/2033,15 yrs.,True,['Sexual assault first degree by school personnel K-12'],['PHILLIPS']
+"Johnson, Allen M",CAUCASIAN,MALE,12/08/1949,07/02/1992,Varner Unit,Life WO,,True,['Capital Murder'],['SEBASTIAN']
+"Kinsey, Dennis D",CAUCASIAN,MALE,11/10/1949,09/25/2017,Ouachita River Correct. Unit,03/22/2020,15 yrs.,True,['Sexual Assault 2nd Degree'],['CRAWFORD']
+"Lee, Veal ",BLACK,MALE,04/14/1949,08/31/1983,DOC Central Office,02/18/1984,3 yrs.,False,['Theft By Receiving'],['MISSISSIPPI']
+"Leggins, James ",BLACK,MALE,07/25/1949,01/26/1973,Ouachita River Correct. Unit,Life,,True,"['Burglary', 'Aggravated Robbery', 'Aggravated Robbery', 'Battery-1st Degree', 'Aggravated Assault']","['MISSISSIPPI', 'PULASKI', 'PULASKI', 'LINCOLN', 'LINCOLN']"
+"McCourt, Francis J",CAUCASIAN,MALE,02/01/1949,12/09/2013,Varner Unit,10/08/2019,35 yrs.,False,"['Dist/Poss/View Sex Explicit', 'Dist/Poss/View Sex Explicit']","['WASHINGTON', 'WASHINGTON']"
+"McCoy, David E",BLACK,MALE,09/15/1949,01/30/1975,Ouachita River Correct. Unit,Life,,True,"['Rape', 'Rape']","['PULASKI', 'PULASKI']"
+"Myers, Eddie R",CAUCASIAN,MALE,02/25/1949,06/19/2019,Ouachita River Correct. Unit,02/08/2029,10 yrs.,True,"['Aggravated Robbery', 'Aggravated Robbery', 'Theft of Property &gt;= ,000 &lt; ,000']","['OTHER STATE', 'WHITE', 'WHITE']"
+"Orr, Robert ",CAUCASIAN,MALE,01/02/1949,02/06/1985,Tucker Unit,Life,,True,['Murder-1st Degree'],['BAXTER']
+"Pruitt, Jimmie L",CAUCASIAN,MALE,01/24/1949,03/20/2017,Ouachita River Correct. Unit,09/06/2019,15 yrs.,True,"['Sexual Indecency With A Child', 'Sexual Assault 2nd Degree']","['LAFAYETTE', 'LAFAYETTE']"
+"Reagle, Kyle A",CAUCASIAN,MALE,01/18/1949,05/06/1998,North Central Unit,01/01/2025,40 yrs.,True,"['Rape', 'Incest', 'Sexual Abuse-1st Degree', 'Empl.Author Child&lt;17 Sex']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Robinson, Steve L",CAUCASIAN,MALE,08/04/1949,03/06/2002,Varner Unit,Life,,True,"['Murder-1st Degree', 'Poss. Firearm Certain Pers', 'Abuse Of A Corpse']","['LINCOLN', 'LINCOLN', 'LINCOLN']"
+"ScottJr, Willie ",BLACK,MALE,08/16/1949,12/06/1991,Ester Unit,08/24/2022,60 yrs.,True,"['Aggravated Robbery', 'Poss. Firearm Certain Pers']","['PULASKI', 'PULASKI']"
+"Simmons, Carroll D",CAUCASIAN,MALE,10/14/1949,07/29/2021,Randall L. Williams Cor. Facility,01/15/2022,6 yrs.,False,"['Failure To Register<br> - Habitual Offender', 'Failure To Register']","['BENTON', 'WASHINGTON']"
+"Smith, Mark ",CAUCASIAN,MALE,06/27/1949,03/18/1971,AR Cc Sentences Tos,Life,,True,['Murder-1st Degree'],['BAXTER']
+"Steinhauser, Clarence A",CAUCASIAN,MALE,05/13/1949,10/01/2003,Wrightsville Unit,11/20/2022,30 yrs.,True,['Murder-1st Degree'],['MILLER']
+"Thatcher, Donald R",CAUCASIAN,MALE,04/25/1949,09/20/2021,Cummins Unit,09/03/2049,40 yrs.,True,"['Rape', 'Sexual Assault 2nd Degree']","['BENTON', 'BENTON']"
+"Williams, Clarence E",BLACK,MALE,09/26/1949,11/06/2006,Ester Unit,09/07/2029,14 yrs.,True,"['Theft Of Property', 'Theft Of Property<br> - Probation Revocation', 'Aggravated Robbery', 'Aggravated Robbery']","['CRAWFORD', 'SEBASTIAN', 'SEBASTIAN', 'WASHINGTON']"
+"Wright, Sylvance ",BLACK,MALE,10/17/1949,10/02/2013,Union County Waiting List,05/11/2020,5 yrs.,False,['Theft Of Property<br> - Probation Revocation'],['UNION']

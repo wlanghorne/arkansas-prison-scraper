@@ -1,0 +1,9 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:27:59.617070
+"Hart, John O",BLACK,MALE,07/01/1942,03/23/2010,Cummins Unit,08/18/2027,25 yrs.,True,"['Rape', 'Sexual Assault 2nd Degree', 'Sexual Assault 2nd Degree', 'Sexual Indecency With A Child']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Holliday, James A",CAUCASIAN,MALE,08/15/1942,04/14/2009,Varner Unit,12/22/2040,60 yrs.,True,"['Sexual Assault 2nd Degree', 'Rape']","['BENTON', 'BENTON']"
+"Hubbard, Sherman L",CAUCASIAN,MALE,03/19/1942,06/09/1975,Varner Unit,Life WO,,True,"['Capital Murder', 'Escape-2nd Degree']","['PULASKI', 'LINCOLN']"
+"Pearson, Jerry L",CAUCASIAN,MALE,11/30/1942,12/20/2006,Grimes Unit,05/18/2034,40 yrs.,True,"['Rape', 'Rape']","['CRAIGHEAD', 'CRAIGHEAD']"
+"Regalado, Edward J",CAUCASIAN,MALE,07/01/1942,03/18/1996,Ouachita River Correct. Unit,Life,,True,['Murder-1st Degree'],['CHICOT']
+"Robinson, James W",BLACK,MALE,07/11/1942,04/25/1979,Cummins Unit,Life WO,,True,['Capital Murder'],['JEFFERSON']
+"Thomas, Willard G",CAUCASIAN,MALE,07/01/1942,01/27/1997,AR Cc Sentences Tos,01/26/2025,40 yrs.,True,"['Poss. Firearm Certain Pers<br> - Habitual Offender', 'Rape<br> - Habitual Offender', 'Kidnapping<br> - Habitual Offender']","['FAULKNER', 'FAULKNER', 'FAULKNER']"
+"Walker, Al ",BLACK,MALE,09/17/1942,12/30/1971,Ouachita River Correct. Unit,Life,,True,"['Robbery', 'Murder-1st Degree', 'Aggravated Robbery']","['PRAIRIE', 'PULASKI', 'PULASKI']"

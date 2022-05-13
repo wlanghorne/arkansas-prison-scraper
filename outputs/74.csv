@@ -1,0 +1,28 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-01 17:22:39.789799
+"Arnold, Eddie L",BLACK,MALE,01/19/1948,09/04/1992,Ouachita River Correct. Unit,07/16/2013,60 yrs.,True,"['Rape', 'Rape']","['JEFFERSON', 'JEFFERSON']"
+"Chafton, Jerry W",CAUCASIAN,MALE,02/27/1948,06/24/1998,Pine Bluff Unit,12/02/2032,50 yrs.,True,['Rape'],['PULASKI']
+"Chambers, Edward ",CAUCASIAN,MALE,08/14/1948,06/05/1984,Ouachita River Correct. Unit,Life,,True,"['Robbery', 'Battery-2nd Degree<br> - Probation Revocation', 'Aggravated Robbery', 'Robbery', 'Aggravated Robbery', 'Sexual Abuse-1st Degree']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Davis, Carl D",CAUCASIAN,MALE,07/16/1948,08/06/2018,Ouachita River Correct. Unit,08/07/2023,20 yrs.,True,['Sexual Assault 1st Degree'],['WASHINGTON']
+"Enriquez, Abel D",CAUCASIAN,MALE,10/25/1948,06/25/2015,Ester Unit,12/04/2020,24 yrs.,True,['Murder-2nd Degree'],['SALINE']
+"Forcht, Richard M",CAUCASIAN,MALE,02/26/1948,02/22/2022,Washington Cnty Waiting List,06/03/2025,10 yrs.,True,['Sexual Assault 2nd Degree'],['WASHINGTON']
+"Frazier, Everette L",CAUCASIAN,MALE,09/07/1948,02/22/1994,Tucker Unit,Life WO,,True,"['Capital Murder', 'Criminal Attempt<br> - Murder-1st Degree']","['BENTON', 'BENTON']"
+"Gordon, Richard T",CAUCASIAN,MALE,01/05/1948,07/15/2011,Cummins Unit,Life,,True,"['Murder-1st Degree', 'Felony With Firearm']","['STONE', 'STONE']"
+"Harmon, Rodney D",CAUCASIAN,MALE,11/08/1948,06/28/2018,Ouachita River Correct. Unit,06/21/2038,40 yrs.,False,"['Simul. Poss Of Drg/Firearm', 'Trafficking Controlled Substance', 'Poss Drug Paraphernalia Man Meth Cocaine', 'Maintain Drug Premises']","['FAULKNER', 'FAULKNER', 'FAULKNER', 'FAULKNER']"
+"Hyatt, Virginia A",CAUCASIAN,FEMALE,06/13/1948,03/03/2016,McPherson Unit,Life WO,,True,['Capital Murder'],['MILLER']
+"Jefferson, T C",BLACK,MALE,02/20/1948,02/10/1971,East AR Max Unit,Life WO,,True,"['Burglary', 'Murder-2nd Degree', 'Rape', 'Rape', 'Capital Murder<br> - Probation Revocation', 'Criminal Attempt<br> - Murder-1st Degree<br> - Probation Revocation', 'Murder-1st Degree<br> - Probation Revocation']","['CROSS', 'LINCOLN', 'CROSS', 'CROSS', 'CHICOT', 'CHICOT', 'CHICOT']"
+"Johnson, Rexford L",CAUCASIAN,MALE,04/30/1948,02/14/2020,Grimes Unit,09/21/2020,6 yrs.,False,['Failure To Register<br> - Habitual Offender'],['FAULKNER']
+"Johnson, William M",CAUCASIAN,MALE,07/20/1948,11/07/1979,Cummins Unit,Life WO,,True,['Capital Murder'],['UNION']
+"Lake, John H",BLACK,MALE,01/28/1948,12/14/2020,North Central Unit,10/27/2037,25 yrs.,True,['Murder-1st Degree'],['MISSISSIPPI']
+"Mcdowell, Tommy A",BLACK,MALE,03/09/1948,07/05/1984,Ouachita River Correct. Unit,Life,,True,"['Aggravated Robbery', 'Theft Of Property', 'Poss. Firearm Certain Pers', 'Murder-1st Degree', 'Aggravated Robbery', 'Theft Of Property', 'Poss. Firearm Certain Pers']","['PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI', 'PULASKI']"
+"Murray, Jimmy A",CAUCASIAN,MALE,07/02/1948,12/14/2001,Ouachita River Correct. Unit,08/21/2031,50 yrs.,True,"['Trans/Dist.Mat.Depi.Child', 'Rape']","['PULASKI', 'PULASKI']"
+"Myres, James D",CAUCASIAN,MALE,10/18/1948,02/14/2022,North Central Unit,06/21/2023,10 yrs.,True,['Sexual Assault 2nd Degree'],['CRAWFORD']
+"Noonan, John C",CAUCASIAN,MALE,02/08/1948,09/30/1999,Ouachita River Correct. Unit,08/22/2026,27 yrs.,True,['Rape'],['FAULKNER']
+"Paradiso, Thomas ",CAUCASIAN,MALE,02/03/1948,06/04/2007,Pine Bluff Unit,03/15/2011,20 yrs.,True,"['Computer Child Pornography', 'Dist/Poss/View Sex Explicit', 'Sexual Assault 2nd Degree']","['WASHINGTON', 'MARION', 'MARION']"
+"Phonekhanhan, Sam K",OTHER,MALE,12/05/1948,07/24/2019,Ouachita River Correct. Unit,01/24/2020,3 yrs.,False,['Sexual Indecency With A Child'],['SEBASTIAN']
+"Pruitt, Ralph J",CAUCASIAN,MALE,01/18/1948,01/25/2012,East AR Region.Unit,01/16/2040,40 yrs.,True,"['Rape', 'Sexual Indecency With A Child']","['FRANKLIN', 'FRANKLIN']"
+"Schrader, Charles ",CAUCASIAN,MALE,04/29/1948,03/15/2011,Cummins Unit,Life,,True,['Rape'],['GREENE']
+"SimpkinsJr, Dan ",BLACK,MALE,01/26/1948,09/24/2009,Grimes Unit,05/22/2030,30 yrs.,True,['Murder-1st Degree<br> - Habitual Offender'],['PULASKI']
+"Slyter, Larry D",CAUCASIAN,MALE,09/13/1948,10/08/2021,Grimes Unit,12/15/2035,90 yrs.,False,"['Sex Offender Failing to Reg - Filing False Paperwork or Doc', 'Dist/Poss/View Sex Explicit']","['BENTON', 'BENTON']"
+"Vermillion, Donald L",CAUCASIAN,MALE,10/25/1948,02/13/1990,Varner Unit,09/14/2022,20 yrs.,True,"['Rape', 'Rape']","['HEMPSTEAD', 'PIKE']"
+"Walker, Charles ",BLACK,MALE,02/21/1948,07/21/1966,Ouachita River Correct. Unit,Life,,True,['Murder-1st Degree'],['PULASKI']
+"Williams, James E",BLACK,MALE,11/25/1948,08/13/1985,Ouachita River Correct. Unit,Life,,True,"['Theft Of Property<br> - Probation Revocation', 'Intimidating A Witness', 'Aggravated Robbery', 'Aggravated Robbery', 'Theft Of Property', 'Aggravated Robbery', 'Rape']","['PULASKI', 'PULASKI', 'CLARK', 'PULASKI', 'PULASKI', 'POPE', 'POPE']"

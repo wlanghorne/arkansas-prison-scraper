@@ -1,0 +1,4 @@
+Name,Race,Sex,DoB,Initial Receipt Date,Facility,PE/TE Date,Total Time,Currently sentenced on violent offense,Current prison sentence history,Sentences in countyTimestamp: 2022-05-13 10:51:19.424669
+"Green, Aidan ",CAUCASIAN,MALE,05/20/2005,04/28/2022,Randall L. Williams Cor. Facility,02/13/2024,6 yrs.,False,"['Battery-1st Degree', 'Theft by Receiving Firearm Value &lt; 00', 'Theft of Property &gt;= ,000 &lt; ,000']","['SEVIER', 'SEVIER', 'SEVIER']"
+"Lewis, Raymond A",BLACK,MALE,11/07/2005,01/11/2022,Randall L. Williams Cor. Facility,02/04/2025,10 yrs.,True,"['Battery-1st Degree', 'Terroristic Act']","['CRITTENDEN', 'CRITTENDEN']"
+"McIntire, Kelton A",BLACK,MALE,02/08/2005,06/28/2021,Randall L. Williams Cor. Facility,04/06/2025,18 yrs.,True,['Murder-2nd Degree'],['PULASKI']
